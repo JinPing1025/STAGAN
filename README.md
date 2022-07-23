@@ -15,5 +15,5 @@ pip install -r requirement.txt
 ```
 
 # Running DivGAN
-You need to open main.py, run load_weights('QM9') to read the pre-trained weights and get the generated molecules.
+You need to open main.py, run load_weights to read the pre-trained weights and get the generated molecules.
 Or provide training set molecules into graph coding for model training.
