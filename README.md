@@ -1,5 +1,5 @@
-# DivGAN
-DivGAN uses generative adversarial networks to perform small molecule map generation tasks, which are implemented in the Keras framework. It allows the user to run the model to generate a reference set of drug-like molecules.
+# STAGAN
+STAGAN uses generative adversarial networks to perform small molecule map generation tasks, which are implemented in the Keras framework. It allows the user to run the model to generate a reference set of drug-like molecules.
 
 # Requirement
 ```
