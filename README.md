@@ -23,7 +23,3 @@ For more details about the methodology and experimental results, please refer to
 
 **STAGAN: An approach for improve the stability of molecular graph generation based on generative adversarial networks**  
 **DOI:** [10.1016/j.compbiomed.2023.107691](https://doi.org/10.1016/j.compbiomed.2023.107691)
-
-# 📬 Contact
-If you have any questions or suggestions, please feel free to contact me:  
-📧 Email: 359100230009@email.ncu.edu.cn
