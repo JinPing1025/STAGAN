@@ -1,12 +1,12 @@
-# STAGAN
+<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/822c5572-1136-4802-be76-8bbea7f825bb" /># 🏔 STAGAN
 STAGAN uses generative adversarial networks to perform small molecule map generation tasks, which are implemented in the Keras framework. It allows the user to run the model to generate a reference set of drug-like molecules.
 
-# Requirement
+# ⚙ Requirement
 ```
 Refer to requirement.txt
 ```
 
-# Installation
+# 🔧 Installation
 * Install [python 3.7](https://www.python.org/downloads/) in Linux and Windows.
 * If you want to run on a GPU, you will need to install [CUDA](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/cudnn), please refer to their websites for corresponding versions.
 * Add your installation path and run the following command to install the DivGAN libraries in one step
@@ -14,6 +14,16 @@ Refer to requirement.txt
 pip install -r requirement.txt
 ```
 
-# Running STAGAN
+# 🚲 Running STAGAN
 You need to open main.py, run load_weights to read the pre-trained weights and get the generated molecules.
 Or provide training set molecules into graph coding for model training.
+
+# 📖 Article
+For more details about the methodology and experimental results, please refer to the paper:
+
+**STAGAN: An approach for improve the stability of molecular graph generation based on generative adversarial networks**  
+**DOI:** [10.1016/j.compbiomed.2023.107691](https://doi.org/10.1016/j.compbiomed.2023.107691)
+
+# 📬 Contact
+If you have any questions or suggestions, please feel free to contact me:  
+📧 Email: 359100230009@email.ncu.edu.cn
