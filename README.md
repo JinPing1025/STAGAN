@@ -14,6 +14,6 @@ Refer to requirement.txt
 pip install -r requirement.txt
 ```
 
-# Running DivGAN
+# Running STAGAN
 You need to open main.py, run load_weights to read the pre-trained weights and get the generated molecules.
 Or provide training set molecules into graph coding for model training.
